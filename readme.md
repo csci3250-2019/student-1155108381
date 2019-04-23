@@ -11,13 +11,13 @@ Project Milestone
 - [ ] 3
 
 ---
-My Courses in this semester:
+My Major Courses in this semester:
 
 |   Courses   | Websites |
 | :--------: | :--------------: |
-|  ENGG2430A  | [ENGG2430](http://www.cse.cuhk.edu.hk/~andrejb/engg2430/) |
-|  CSCI2100B  | [CSCI2100](http://course.cse.cuhk.edu.hk/~csci2100b/) |
-|  CSCI3250   | [CSCI3250](http://course.cse.cuhk.edu.hk/~csci3250/) |
+|  ENGG2430A  | [LINK](http://www.cse.cuhk.edu.hk/~andrejb/engg2430/) |
+|  CSCI2100B  | [LINK](http://course.cse.cuhk.edu.hk/~csci2100b/) |
+|  CSCI3250   | [LINK](http://course.cse.cuhk.edu.hk/~csci3250/) |
 
 > Screenshot:
 > ![Screenshot](https://github.com/csci3250-2019/student-1155108381/blob/master/Project%202.PNG)
