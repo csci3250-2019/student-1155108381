@@ -5,13 +5,13 @@
 * Actually, I have **_NO_** experience on using Github before this course.
 ---
 
-Project Milestone
+#### Project Milestone
 - [x] 1
 - [x] 2
 - [ ] 3
 
 ---
-My Major Courses in this semester:
+#### My Major Courses in this semester:
 
 |   Courses   | Websites |
 | :--------: | :--------------: |
@@ -19,5 +19,5 @@ My Major Courses in this semester:
 |  CSCI2100B  | [LINK](http://course.cse.cuhk.edu.hk/~csci2100b/) |
 |  CSCI3250   | [LINK](http://course.cse.cuhk.edu.hk/~csci3250/) |
 
-> Screenshot:
+#### Screenshot:
 > ![Screenshot](https://github.com/csci3250-2019/student-1155108381/blob/master/Project%202.PNG)
