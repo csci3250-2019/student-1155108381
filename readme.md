@@ -4,12 +4,15 @@
 * I am now a **CE** student in CUHK. 
 * Actually, I have **_NO_** experience on using Github before this course.
 ---
+
 Project Milestone
-[x] 1
-[x] 2
-[ ] 3
+- [x] 1
+- [x] 2
+- [ ] 3
+
 ---
 My Courses in this semester:
+
 |   Courses   | Websites |
 | :--------: | :--------------: |
 |  ENGG2430A  | [ENGG2430](http://www.cse.cuhk.edu.hk/~andrejb/engg2430/) |
